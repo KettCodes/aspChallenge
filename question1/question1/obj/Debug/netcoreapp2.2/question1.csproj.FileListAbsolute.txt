@@ -1,0 +1,16 @@
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\question1.deps.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\question1.runtimeconfig.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\question1.runtimeconfig.dev.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\question1.dll
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\question1.pdb
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\question1.csprojAssemblyReference.cache
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\question1.RazorAssemblyInfo.cache
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\question1.RazorAssemblyInfo.cs
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\question1.AssemblyInfoInputs.cache
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\question1.AssemblyInfo.cs
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\question1.RazorTargetAssemblyInfo.cache
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\question1.dll
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\question1.pdb
