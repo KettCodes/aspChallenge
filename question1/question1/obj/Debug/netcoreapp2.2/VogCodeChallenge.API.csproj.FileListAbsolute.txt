@@ -1,0 +1,16 @@
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\VogCodeChallenge.API.deps.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\VogCodeChallenge.API.runtimeconfig.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\VogCodeChallenge.API.runtimeconfig.dev.json
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\VogCodeChallenge.API.dll
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\VogCodeChallenge.API.csprojAssemblyReference.cache
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\VogCodeChallenge.API.RazorAssemblyInfo.cache
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\VogCodeChallenge.API.RazorAssemblyInfo.cs
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\VogCodeChallenge.API.AssemblyInfoInputs.cache
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\VogCodeChallenge.API.AssemblyInfo.cs
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\VogCodeChallenge.API.RazorTargetAssemblyInfo.cache
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\bin\Debug\netcoreapp2.2\VogCodeChallenge.API.pdb
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\VogCodeChallenge.API.dll
+C:\Users\Kett\OneDrive - University of Calgary\aspChallenge\aspChallenge\question1\question1\obj\Debug\netcoreapp2.2\VogCodeChallenge.API.pdb
